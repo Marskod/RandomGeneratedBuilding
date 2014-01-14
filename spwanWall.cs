@@ -48,7 +48,11 @@ public class spwanWall : MonoBehaviour {
 		Instantiate(wallSide, new Vector3(endDist+=3.75f,3,5), Quaternion.AngleAxis(270,Vector3.up));
 		
 		//Debug.Log("Forward end: " + endDist);
+<<<<<<< HEAD
 		//calls
+=======
+		
+>>>>>>> 395ee45e72c0ecdfd0676bac5d440e841b44653d
 		return endDist; 
 	}
 

@@ -3,7 +3,10 @@ using System.Collections;
 
 public class Player_test : MonoBehaviour {
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 395ee45e72c0ecdfd0676bac5d440e841b44653d
 	public float pSpeed = 5.0f; 	
 	public Transform brick; 
 	public Transform bullet; 
